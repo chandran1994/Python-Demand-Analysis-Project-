@@ -4,11 +4,6 @@
 
 This project focuses on **Demand Management Analytics** using customer sales data to uncover purchasing patterns, demand trends, and product movement behaviour across regions and customer segments.
 
-The analysis is inspired by concepts from:
-
-> *Chapter 8 — Demand Management*  
-> *Supply Chain Analytics: Concepts, Techniques and Applications*  
-> by Kurt Y. Liu
 
 The project demonstrates how data analytics can support:
 - Demand forecasting
