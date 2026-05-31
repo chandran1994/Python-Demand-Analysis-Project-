@@ -162,28 +162,5 @@ Poor forecasting creates two things:
 
 ---
 
-# Learning Outcomes
-
-Through this project, the following skills were developed:
-
-- Demand forecasting using statistical and ML methods
-- Time series preprocessing
-- Forecast evaluation and interpretation
-- Supply chain analytical thinking
-- Python-based analytics workflows
-- Model comparison and performance analysis
-
----
-
-# Reference
-
-**Book Reference:**  
-*Kurt Y. Liu — Supply Chain Analytics: Concepts, Techniques and Applications*  
-Chapter 8: Demand Management
-
----
-
-# Author
-
 **Chandran**  
 Supply Chain Analytics | Data Analytics | Machine Learning Enthusiast
