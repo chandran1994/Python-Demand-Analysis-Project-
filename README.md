@@ -115,7 +115,7 @@ These methods provided an initial understanding of forecast behavior and served 
 
 The next stage focused on ARIMA (AutoRegressive Integrated Moving Average), a widely used statistical forecasting technique.
 
-The time series was evaluated for stationarity and transformed when necessary through differencing. Autocorrelation and partial autocorrelation analysis were performed to identify appropriate model parameters.
+The time series was evaluated for stationarity and transformed when necessary through differencing. Autocorrelation and partial autocorrelation analysis were performed to identify appropriate model parameters
 
 ### Analytical Process
 
