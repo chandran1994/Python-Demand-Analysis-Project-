@@ -192,7 +192,7 @@ This comparison provided insight into when machine learning methods may outperfo
 
 This project demonstrates how demand forecasting can support operational and strategic decision-making across supply chain functions.
 
-Accurate forecasts enable organizations to :
+Accurate forecasts enable organizations to -
 
 * Improve inventory planning
 * Reduce stockout risk
